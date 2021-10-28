@@ -14,6 +14,3 @@ d = right
 
 THANK YOU AND ENJOY THE GAME
 
-licence
-
-mit licence
