@@ -7,3 +7,8 @@ w = up
 s = down
 a = left
 d = right
+#THANK YOU AND ENJOY THE GAME
+
+#licence
+
+mit licence
